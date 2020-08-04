@@ -1,0 +1,17 @@
+.btn_advance{
+    display: block;
+    width: 100%;
+    padding: 20px;
+
+    text-align: center;
+    background-image: linear-gradient(rgb(52, 52, 204), rgb(88, 228, 228));
+    border: 1px solid cyan;
+    border-radius: 20px;
+    margin-top: 70px;
+
+
+    color: white;
+    font-size: 25px;
+    text-shadow: 3px 3px rgba(50,50,70,0.7);
+    outline: none;
+}
